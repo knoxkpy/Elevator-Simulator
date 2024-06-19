@@ -1,0 +1,2 @@
+- Qt/C++
+- employed mediator design pattern
